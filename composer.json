@@ -1,0 +1,18 @@
+{
+    "name": "nschernthaner/test1",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nschernthaner\\Test1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nico Schernthaner",
+            "email": "nschernthaner@schueler.hakzell.at"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
